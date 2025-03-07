@@ -255,7 +255,9 @@ where you are when you send the messages, how quickly the receiver reads it, etc
 Securing metadata today is **ALMOST IMPOSSIBLE**. No off the shelf messaging solutions are metadata secure. Signal leaks 100% of your
 metadata to the US government, as all the metadata is processed on servers located in Amazon and Microsoft facilities in the United
 States. Signal also uses phone numbers for accounts, a very powerful form of metadata that can be used to link many communications
-and profiles across time
+and profiles across time. In addition, your phone number can be compromised by any government entity, so if you do use Signal,
+make sure you do not trust people unless you MANUALLY VERIFY THEIR FINGERPRINT IN PERSON, and do so after every notification that
+their safety number has changed.
 
 Given this, my practical advice is to keep most sensitive communications to in person small group comms. Where this is not possible,
 assume your metadata is compromised, and act appropriately. Burner mesaging accounts on platforms like Session, frequently rotated,
