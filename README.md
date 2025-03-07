@@ -257,7 +257,12 @@ metadata to the US government, as all the metadata is processed on servers locat
 States. Signal also uses phone numbers for accounts, a very powerful form of metadata that can be used to link many communications
 and profiles across time. In addition, your phone number can be compromised by any government entity, so if you do use Signal,
 make sure you do not trust people unless you MANUALLY VERIFY THEIR FINGERPRINT IN PERSON, and do so after every notification that
-their safety number has changed.
+their safety number has changed
+
+You may think metadata is not a big deal? Not so. Michael Hayden, ex head of the NSA, was famously known to have said "we kill people
+based off metadata alone" https://abcnews.go.com/blogs/headlines/2014/05/ex-nsa-chief-we-kill-people-based-on-metadata
+Indeed, most signals intelligence these days focuses on metadata collection and analysis, as the actual content is almost always
+irrelevant. Be thoughtful about minimizing your metadata
 
 Given this, my practical advice is to keep most sensitive communications to in person small group comms. Where this is not possible,
 assume your metadata is compromised, and act appropriately. Burner mesaging accounts on platforms like Session, frequently rotated,
