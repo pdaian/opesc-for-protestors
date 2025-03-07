@@ -30,7 +30,7 @@ I will expand the first two, which I consider the most important pillars of opse
 
 Start by burning these rules into your brain. Repeat them every day, like a mantra. Practice makes perfect
 
-# know they threats
+# know thy threats
 
 opsec is centered around protection from current and future threats. opsec is also a *risk management* strategy. it is about
 knowing and avoiding risks, although risks can never be avoided completely
