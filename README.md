@@ -67,7 +67,7 @@ that they can use in new ways that are impossible for you or anyone to predict t
 so, no matter what you do, expect some aspect of your opsec to eventually fail to the march of time, especially if you are 
 attempting to protect yourself against a surveillance actor
 
-if your opsec, has been poor in the past, expect that your behavior and activities are known. incoprorate this into the threat
+if your opsec has been poor in the past, expect that your behavior and activities are known. incoprorate this into the threat
 and vulnerability analysis you are doing above
 
 # secure your internet connection
@@ -161,7 +161,7 @@ be able to even know Tor Node 3 was involved in the traffic. This provides an ad
 one of the Tor nodes is outside the control of your threat, your threat will not be able to decode the full chain
 
 There are, however, a lot of gothcas. So, now we have:
-1. YOUR providers 1,2,3 can see you are losing Tor, and the same metadata they see for a VPN, but that's it. Similar to a VPN in this
+1. YOUR providers 1,2,3 can see you are using Tor, and the same metadata they see for a VPN, but that's it. Similar to a VPN in this
 regard.
 2. To "subpoena"/"pwn" or compromise the Tor chain, an adversary must compromise all 3 Tor nodes. This is difficult as Tor is secured
 by the military and other organizations for their own communications, as well as maintained by a global network of privacy
