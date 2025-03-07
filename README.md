@@ -47,7 +47,7 @@ list each threat you are worried about. list all the ways these threats tend to 
 have to these threats. make a spreadsheet for each vulnerability, and estimate the likelihood something like this would
 happen to you (1-5 is fine), the impact/damage should it happen, and the difficulty of mitigating the threat
 
-this will start to serve as a map. for each threat you want to mitigate it, develop and implement a strategy. review your
+this will start to serve as a map. for each threat you want to mitigate, develop and implement a strategy. review your
 threat analysis and your plan regularly, perhaps as often as once a month in fast moving situations. never stop learning
 your enemy and looking for new ways they use vulnerabilities against their targets. by running a formal process and giving
 numbers to each, you can start thinking objectively about how to best manage the risk to avoid as much downside as possible
